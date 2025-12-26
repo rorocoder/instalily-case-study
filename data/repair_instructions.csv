@@ -1,0 +1,1071 @@
+appliance_type,symptom,part_type,instructions,part_category_url
+refrigerator,Noisy,Condenser Fan Motor,"Most modern frost-free refrigerators will have a fan cooled condenser coil. The condenser fan circulates air through the condenser coil to remove heat as well as circulating air over the drain pan to evaporate the defrost water. If your fridge is making a loud noise, the condenser fan motor could be to blame. The condenser fan motor runs at the same time as the evaporator motor and the compressor. In addition to noise, your fridge might not be staying as cool as normal and/or may be turning on and off regularly.
+
+How to inspect a refrigerator condenser fan motor:
+
+- Disconnect your refrigerator from the power source and then remove the rear access panel. 
+
+- Locate the condenser fan motor, it is usually found near the compressor at the bottom rear of the refrigerator.
+
+- Visually inspect the condenser fan motor for any signs of wear or damage. Look for any debris or obstructions that could be preventing the fan from moving freely.
+
+- If the fan motor is seized or worn, you will need a replacement condenser fan motor.",https://www.partselect.com/Repair/Refrigerator/Noisy/#CondenserFan
+refrigerator,Noisy,Evaporator Fan Motor,"The evaporator fan motor is responsible for pulling air over the evaporator coils when the compressor is running. If your refrigerator is making a loud noise that appears to be coming from the freezer area, a faulty evaporator fan motor could be to blame. You may also notice that your refrigerator is not staying as cold as normal, or your ice is taking longer to freeze.
+
+How to inspect a refrigerator evaporator fan motor:
+
+- After unplugging your refrigerator, remove the evaporator fan cover. The evaporator fan cover is located inside the unit in the freezer compartment.
+
+- Inspect the evaporator motor for any signs of wear or damage. If there is a significant amount of ice on the motor, defrost your freezer and see if that resolves the issue.
+
+- Attempt to manually turn the motor shaft, it should turn freely with minimal resistance.
+
+- If you cannot turn it easily, or if it is noticeably worn, you need a replacement evaporator fan motor.",https://www.partselect.com/Repair/Refrigerator/Noisy/#EvaporatorFan
+refrigerator,Noisy,Evaporator Fan Motor Grommet,"The evaporator fan motor grommet is used to isolate the motor from the mounting bracket and reduce vibration noise. Regular wear and tear can cause the grommets to wear or become detached, which can increase vibration and cause excess noise.
+
+How to check a refrigerator’s evaporator fan motor grommets:
+
+- Unplug your refrigerator.
+
+- Remove the evaporator fan cover, which will be found inside the freezer compartment.
+
+- Inspect the grommet to see if it has fallen off, or it if is showing signs of wear or damage..
+
+- If any of the above are true, you will need a replacement evaporator fan motor grommet.",https://www.partselect.com/Repair/Refrigerator/Noisy/#EvaporatorFanMotor
+refrigerator,Leaking,Door Gaskets Or Seals,"Door gaskets or seals are found along the outside of the refrigerator’s doors. They are normally made from a vinyl material and will typically have a flexible magnetic strip inside to adhere to the cabinet when the door is closed to create an airtight seal. If there is moisture along the edge of the door then inspect the gaskets for distortion or damage. Air leakage through a defective gasket will create excessive moisture in the refrigerator, possibly resulting in defrost issues and potential water leaks.
+
+How to inspect refrigerator door gaskets or seals:
+
+- After unplugging your refrigerator, open the fridge and freezer doors to inspect the door gaskets or seals.
+
+- You are looking for any discoloration, mold, wear, missing pieces, or anything else that may prevent a proper seal.
+
+- If you find any of the above, you will need replacement gaskets or seals.",https://www.partselect.com/Repair/Refrigerator/Leaking/#DoorGasketsOr
+refrigerator,Leaking,Water Inlet Valve,"The water inlet valve is a solenoid-operated device that connects your household water supply line to your refrigerator if you have an ice maker or water dispenser. When activated, it diverts water from the supply line to the dispenser or to fill your ice maker.
+
+How to check the water inlet valve in a refrigerator with a multi-meter:
+
+- Unplug your refrigerator, disconnect the water supply and locate your water inlet valve. It is usually on the rear of the fridge, near the bottom. You will need to remove the rear panel to access it.
+
+- Inspect the valve inlet supply connections for leaks and tighten or replace the connectors. You should also inspect the valve body for any cracks or damage. Check the outlet tubing for cracks or abrasions that may also create a leak and replace any cracked or brittle tubing and connectors.
+
+- If none of the above appear to be the cause of the leak, remove the water inlet valve from the unit.
+
+- Using a multi-meter on the Rx1 setting, test your valve for conitniuty by placing the probes on the valve’s terminals. You should receive a reading of 200 to 500 ohms.
+
+- If you receive any other reading, you need a replacement water inlet valve.",https://www.partselect.com/Repair/Refrigerator/Leaking/#WaterInlet
+refrigerator,Leaking,Ice Maker Assembly,"If your fridge is leaking water from in or around the ice maker, you’re probably also experiencing problems with the ice distribution itself. The cubes may be too small, one solid block of ice or not being produced at all. Inspect the ice maker mold to see if there are ice cubes present. If there are no cubes or very small cubes, then you should look for issues with the water fill system.
+
+How to inspect a refrigerator’s ice maker assembly:
+
+- Disconnect your appliance from both the power source and water source.
+
+- Inspect the fill tube and the fill cup area at the back of the icemaker to make sure that they are not frozen. If there is an ice buildup in that area, confirm no foreign objects have disrupted the flow of water into the fill cup.
+
+- Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions.
+
+- If any issues are found while performing the checks above, you will may a replacement ice maker assembly. If nothing obvious has caused the ice buildup, then suspect the inlet valve or tubing.",https://www.partselect.com/Repair/Refrigerator/Leaking/#IceMaker
+refrigerator,Will not start,Overload Or Relay-Start Capacitor,"The overload relay is a protection device used in the compressor circuit on your refrigerator. Power is applied to the compressor motor windings through the overload device, and the relay is used to add the start winding in the circuit until the compressor is at running speed. If the fans are running and your compressor won’t start or if you hear a clicking sound from the unit, check the overload relay for signs of overheating or arcing.
+
+How to test a refrigerator’s overload or relay-start capacitor with a multi-meter:
+
+- Begin by ensuring you have unplugged your refrigerator, and then remove the rear panel.
+
+- Locate and remove your overload or relay-start capacitor. On modern refrigerators the overload relay is usually a combined part and plugs directly onto the side of the compressor. There may also be a start capacitor attached to the relay overload assembly, which provides increased starting voltage to the compressor windings.
+
+- To test, begin by discharging the capacitor, then set your multi-meter to the Rx1 setting and place the probes onto the terminals of the overload capacitor and/or the relay-start capacitor. The reading you should receive will vary from model to model, and may be indicated on the outside of the capacitor, or in your owner’s manual. 
+
+- If your test does not produce the reading the manufacturer recommends, you need a replacement overload or relay-start capacitor. If your tests do produce the recommended readings you may have a defective compressor, which will need to be tested by a qualified professional as it is a live circuit test.",https://www.partselect.com/Repair/Refrigerator/Will-Not-Start/#OverloadOrRelay-Start
+refrigerator,Will not start,Cold Control & Temperature Control,"The cold control is a temperature-controlled switch that supplies power to the compressor and fan circuits in the refrigerator. If your refrigerator won’t start and no fans are running, then you may have a defective control.
+
+How to test your fridge’s cold control & temperature control with a multi-meter:
+
+- After disconnecting your appliance from the power source, open your refrigerator door and locate the control. It will be located behind the temperature adjustment knob and is usually found in the fresh food section control panel.
+
+- Remove the control from the fridge in order to test it.
+
+- Using a multi-meter on the Rx1 setting, set your control to the lowest (warmest) setting, and place the probes on the terminals. You are testing for continuity and you should receive a reading of infinity.
+
+- With the probes still on the terminals, adjust the control to higher (colder) and higher settings, your reading should then change to zero, indicating that you have continuity.
+
+- If your control fails either of the tests above, you will need a replacement cold control & temperature control.",https://www.partselect.com/Repair/Refrigerator/Will-Not-Start/#ColdControlAnd
+refrigerator,Will not start,Electronic Control Board,"Some newer refrigerators are controlled by an Electronic Control Board that monitors temperatures and controls the compressor, fans and defrost system. If your refrigerator will not start, the control board could be at fault. Electronic controls are complex and expensive. You should first verify that there is no power being supplied to the compressor, that you have incoming power to the control board and that the external controls are functioning properly before condemning the electronic control.
+
+How to inspect your refrigerator’s electronic control board:
+
+- Ensure that you have disconnected your appliance from the power before beginning as you will be handling electrical components.
+
+- Open your refrigerator door to locate and remove the electronic control board from your appliance. It will be located inside the control box, which is usually found attached to the top or side of the fridge.
+
+- Look on the control board for signs of arcing, burnt connections, damaged foil, wear, or any other damage.
+
+- If you find any of the above, you need a replacement electronic control board.",https://www.partselect.com/Repair/Refrigerator/Will-Not-Start/#ElectronicControl
+refrigerator,Ice maker not making ice,Water Fill Tubes,"Inspect the ice maker mold to see if there are ice cubes present. If there are no cubes or very small cubes, then you should look for issues with the water fill system.
+
+How to inspect your refrigerator’s water fill tubes:
+
+- Before beginning, disconnect both the power and water source from your refrigerator.
+
+- At the back of the icemaker, inspect the fill tube and the fill cup area at the back of the ice maker to make sure that they are not frozen. If there is an ice buildup in that area, confirm no foreign objects have disrupted the flow of water into the fill cup.
+
+- Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions.
+
+- If you find any issues while performing the checks above, you will need replacement water fill tubes.",https://www.partselect.com/Repair/Refrigerator/Not-Making-Ice/#WaterFill
+refrigerator,Ice maker not making ice,Water Inlet Valve,"Some water inlet valves may have a screen to filter debris before it can enter the valve. If the screen is plugged, water flow will be restricted, and the result will be small or layered ice cubes. Remove and clean the screen if it is clogged. If dirt has gotten into the valve it may not shut off completely and will continuously drip water into the ice maker fill tube and will eventually freeze up. Low household water pressure or a restriction at the manual shut off valve will also cause the water inlet valve to not shut off completely and create this same condition. Self piercing saddle valves are the most common shut off valve to cause this problem as the hole that is pierced in the water line is often too small and will more easily become restricted.
+
+How to check the water inlet valve in a refrigerator with a multi-meter:
+
+- Disconnect your appliance from the power and water source before beginning.
+
+- Remove the rear access panel and locate your water inlet valve, it is usually found near the bottom.
+
+- Before removing the inlet valve, look for any signs of leaks or loose connectors in the valve inlet supply. If no issues are found, inspect the valve body for any cracks or damage. 
+
+- Inspect the outlet tubing for any brittle tubing, abrasions, cracks, or any other damage.
+
+- If you do not locate any leaks, disconnect the water inlet valve and remove it from the refrigerator to test it
+
+- Set your multi-meter to the Rx1 setting and touch the terminals with the probes. You are testing for continuity and should receive a reading of 200 to 500 ohms.
+
+- If you receive any other reading, you need a replacement water inlet valve.",https://www.partselect.com/Repair/Refrigerator/Not-Making-Ice/#WaterInlet
+refrigerator,Ice maker not making ice,Ice & Water Filter,"If equipped, the Ice and Water filter in your refrigerator is responsible for removing any debris or contaminants from your water that may remain after local water treatment. Most filters contain and are made up of carbon and fabric filter. Over time, the filter may become restricted and reduce the water flow to the ice maker, causing a symptom of little or no ice. Most manufacturers recommend replacing the filter every 6 months, but local water conditions may require that you replace more frequently.
+
+How to inspect your refrigerator’s ice and water filter:
+
+- Determine when you last replaced your water filter. Replacement frequency varies by model and local water quality, but you should never go longer than 12 months without replacing your water filter.
+
+- Locate your water filter. Location varies by model and brand, but it is often found inside the unit attached to the ceiling or back corner, behind the base grill, or in the water line leading to the fridge. If your filter is in the water line, you will need to turn off the water supply before removing the filter.
+
+- Due to the variety of filters and placements we suggest you follow brand specific install instructions or refer to manufacturer guidelines. Before installing the new filter note the install date on the filter or on your calendar.
+
+- If it has been longer than the manufacturer recommended guidelines, or you filter is damaged, you will need a replacement ice and water filter.",https://www.partselect.com/Repair/Refrigerator/Not-Making-Ice/#IceAndWater
+refrigerator,Ice maker not making ice,Ice Maker Assembly & Replacement Ice Maker,"If there are no ice buildup issues or suspected problems with the water supply, then you may have a problem with the ice maker control. The most common type of ice maker used in modern refrigerators is the heat release ice maker. The testing procedure for the heat release ice maker involves a live voltage test, consequently it should only be performed by a qualified professional. However, the issue may also be related to the water fill system or the ice maker assembly.
+
+How to inspect your refrigerator’s ice maker assembly:
+
+- Begin by disconnecting the water source and unplugging your refrigerator.
+
+- Open the freezer door in order to inspect the fill cup area and the fill tube itself for any signs of damage, wear, or freezing.
+
+- Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions.
+
+- If there is an ice buildup in either area, confirm no foreign objects have disrupted the flow of water into the fill cup, and allow the freezer to defrost to see if that resolves the issue.
+
+- If any issues are found while performing the checks above & defrosting the freezer did not solve the issue, you will need a replacement ice maker assembly. If nothing obvious has caused the ice buildup, then suspect the inlet valve or tubing.",https://www.partselect.com/Repair/Refrigerator/Not-Making-Ice/#IceMakerAssembly
+refrigerator,Fridge too warm,Air Inlet Damper Or Baffle,"The air damper, baffle or diffuser is the device that balances the air flow from the evaporator fan housing. This normally is a mechanically controlled baffle or flapper that controls the amount of cold air entering the fresh food compartment. If the baffle is damaged or the linkage to the control knob is damaged, then you may not have enough cold air entering the fresh food compartment resulting in higher than normal temperatures.
+
+How to inspect a refrigerator’s air inlet damper or baffle:
+
+- Disconnect your refrigerator from the power source and open your refrigerator door to locate the damper or baffle. It will be found where the cold air enters the fresh food compartment.
+
+- The housing that the baffle or damper is encased in is often made of plastic with a Styrofoam lining and may have a foam seal to prevent air leakage. Care should be used when inspecting the housing to avoid damage to the seal or the Styrofoam.
+
+- Some refrigerator models use a temperature sensing bulb attached to this control that will automatically adjust the control for changes in the interior temperature. Make sure that the sensing bulb is in the correct position and is not damaged.
+
+- Attempt to operate the control knob to verify that the linkage is intact and that it moves freely.
+
+- If the damper/baffle is stuck in the closed or nearly closed position or does not move freely, then you need a replacement air inlet damper or baffle.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Too-Warm/#AirInletDamper
+refrigerator,Not dispensing water,Ice & Water Filter,"If so equipped, the ice and water filter in your refrigerator is responsible for removing any debris or contaminants from your water that may remain after local water treatment. Most filters contain and are made up of carbon and a fabric filter. Over time the filter may become restricted and reduce or stop the water flow to the dispenser. Most manufacturers recommend replacing the filter every 6 months, but local water conditions may require that you replace more frequently.
+
+How to inspect your refrigerator’s ice and water filter:
+
+- Consider when you last changed your ice and water filter. How frequently you need to change your filter varies by model and local water conditions, but you should never exceed 12 months of use per filter.
+
+- Find and remove your water filter. The exact location differs from model to model, but it is commonly located in the water line leading to the fridge, behind the base grill, or inside the unit attached to the rear corner or ceiling. If your filter is in the water line, you will need to disconnect the water supply before beginning.
+
+- With the variety of locations and removal instructions, we recommend you follow brand specific directions, or refer to your owner’s manual for specific directions. Take note of the installation date on your calendar before installing the new filter.
+
+- If your filter is damaged or clogged, or if you have exceeded the manufacturers’ recommended guidelines, you will need a replacement ice and water filter.",https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/#IceAndWater
+refrigerator,Not dispensing water,Water Inlet Valve,"The water inlet valve is a solenoid-operated device that supplies water to the dispenser when activated. When water is selected at the dispenser control panel, line voltage is supplied to the solenoid of the water inlet valve to allow water to flow. Verify that you have adequate pressure at the inlet to the valve, that the inlet screen is not plugged and that there are no restrictions in the inlet or outlet tubing.
+
+How to test your refrigerator’s water inlet valve with a multi-meter:
+
+- After disconnecting the water supply and unplugging your refrigerator, remove the rear access panel and locate the water inlet valve. It is usually found near the bottom of the fridge.
+
+- Begin by inspecting all the tubing, and their respective connections, for leaks, damage, wear, abrasions, or brittle tubing.
+
+- If you do not locate the source of the leak in the above checks, remove the water inlet valve to test it.
+
+- With a multi-meter in Rx1 mode, touch the terminals with the probes to test for continuity. A functional water inlet valve should put off a reading of 200 to 500 ohms.
+
+- If you receive any other reading, you need a replacement water inlet valve.",https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/#WaterInlet
+refrigerator,Not dispensing water,Water Dispenser Actuator,"The water dispenser actuator is the mechanical part that activates the dispenser micro switch. It is normally a plastic lever that pivots when depressed by your water glass, and it may be covered with a soft plastic pad. You can usually hear a click when the switch is contacted.
+
+How to inspect a refrigerator water dispenser actuator:
+
+- Unplug your appliance and turn off the water supply to the refrigerator.
+
+- Remove the control panel cover and verify that the actuator contacts the dispenser switch properly and if not, check the actuator housing bracket, switch mounting bracket and the actuator pivot itself.
+
+- If you find any issues, you may need a replacement water dispenser actuator. If the actuator is contacting the switch, you will need to check the switch or control board for the source of the problem.",https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/#WaterDispenser
+refrigerator,Not dispensing water,Micro Switch,"The dispenser micro switch is a momentary contact switch that when actuated will supply power to the solenoid on the water inlet valve.
+
+How to test a refrigerator micro switch with a multi-meter:
+
+- Disconnect the refrigerator from the power source and turn off the water supply before beginning.
+
+- Remove the control panel of your refrigerator to locate the switch. It will be found behind the pad or lever that is pressed to dispense water.
+
+- After removing the switch, set your multi-meter to the Rx1 setting to test your switch for continuity. You should receive a reading of 200 to 500 ohms.
+
+- If you receive any other reading, you need a replacement micro switch.",https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/#MicroSwitch
+refrigerator,Not dispensing water,Dispenser Control Board,"Some models of refrigerators use an electronic control to supply power to the water inlet valve. If you have verified that the water inlet valve is not getting power and the actuator and switch are operating properly, then you may have a defective electronic control.
+
+How to inspect a refrigerator’s dispenser control board:
+
+- Begin by turning off the water supply and unplugging your refrigerator.
+
+- The dispenser control board is usually located on the freezer door and it’s where you select all the settings for your refrigerator.
+
+- Remove the frame holding the control board in place, using caution to not break or crack the frame as your remove it.
+
+- Inspect the dispenser control board for any signs of damage, wear, burning, or shorted connections.
+
+- If you find any of the above issues, you will need a replacement dispenser control board.",https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/#DispenserControl
+refrigerator,Fridge and Freezer are too warm,Cold Control Or Temperature Control,"The cold control is a temperature-controlled switch that supplies power to the compressor and fan circuits in the refrigerator. If the compressor and fans are operating normally but not running often enough or long enough to maintain the correct temperatures in the fresh food and freezer sections, then the cold control may be defective or out of calibration. Normal fresh food temperatures are in the 38° Fahrenheit range with the control set to mid-point. Verify that the capillary tube or sensing bulb is not damaged or out of position and that the wire terminals are not loose or corroded.
+
+How to test your fridge’s cold control & temperature control with a multi-meter:
+
+- Unplug your refrigerator before beginning, then open your refrigerator door and locate the control. It will be located behind the temperature adjustment knob and is usually found in the fresh food section control panel.
+
+- After removing the control from the appliance, turn the control to the warmest setting, set your multi-meter to the Rx1 setting and touch the probes to the terminals
+
+- You are testing for continuity and you should receive a reading of infinity. With the probes still touching the terminals, adjust the control to higher (colder) and higher settings. Your reading should change to zero, indicating that you have continuity.
+
+- If your control fails either of the tests above, you will need a replacement cold control & temperature control.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/#ColdControlOr
+refrigerator,Fridge and Freezer are too warm,Evaporator Fan Motor,"The evaporator fan motor is used to circulate the cold air throughout the refrigerator when the compressor is running. If the fan is defective, then temperatures in the freezer section will rise slowly and temperatures in the fresh food section will rise more rapidly and the compressor will run longer and more frequently than normal. With the compressor running you should also hear the evaporator fan running at the same time, as well as the condenser fan which is located next to the compressor.
+
+How to inspect a refrigerator evaporator fan motor:
+
+- Disconnect your refrigerator from the power source and remove the evaporator fan cover, which will be found in the freezer compartment.
+
+- The motor shaft should turn freely with minimal resistance, attempt to turn the shaft manually to check for any resistance.
+
+- If there is a significant amount of ice on the motor, defrost your freezer and see if that resolves the issue. You should also inspect the motor for any signs of wear or damage.
+
+- If you cannot turn it easily, or if it is noticeably worn, you need a replacement evaporator fan motor.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/#EvaporatorFan
+refrigerator,Fridge and Freezer are too warm,Electronic Control Board,"Some newer models of refrigerators may use an electronic control board. Thermistors or temperature sensors are connected to the control board and are used to monitor temperatures in the fresh food and freezer compartments. The control board uses this information to control the operation of the compressor, fan motors and defrost system. If the temperatures are too warm, then the electronic control could be at fault. Electronic controls are complex and expensive and usually reliable, so you should first verify that all of the other components such as the compressor, fans and sensors are operating properly before condemning the control. Some manufacturers may provide specific information that will help in diagnosing a defective control.
+
+How to inspect your refrigerator’s electronic control board:
+
+- Unplug your fridge before beginning as you will be handling electrical components.
+
+- Locate and remove the electronic control board from your appliance. It is inside of the refrigerator, inside of the control box, which is usually found attached to the top or side of the fridge.
+
+- Inspect your control board for any signs of damaged foil, wear, burnt connections, arcing, or any other damage.
+
+- If you find any of the above, you need a replacement electronic control board.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/#ElectronicControl
+refrigerator,Fridge and Freezer are too warm,Temperature Sensor Or Thermistor,"In models that use an Electronic Control, a thermistor or temperature sensor may be used to monitor fresh food and freezer temperatures. The sensor is a small capsule like device that is protected by a plastic shield and will vary in resistance depending on the temperature. The control board uses this information to turn on the compressor and fan circuits as well as to operate the damper control on some models. If a sensor becomes damaged or defective it may incorrectly signal the control board to turn off the compressor and fans and result in warmer than normal fresh food and freezer temperatures. Individual manufacturers may have specific information available to test these sensors, depending on the model involved, and may also provide a fault code on the electronic control board on some models.
+
+How to test a refrigerator temperature sensor or thermistor with a multi-meter:
+
+- Begin by unplugging your refrigerator, then remove the back panel of your refrigerator to locate the main control board.
+
+- The thermistor(s) will be connected to the main control board. Remove the thermistor(s) from the appliance in order to test them.
+
+- Before testing them, you will need to place the thermistor(s) in ice water for 5 minutes in order to bring the temperature to 32 degrees F. The thermistor(s) will produce different readings at different temperatures, and the suggested ranges below only apply to thermistors at a temperature of 32 degrees F.
+
+- With the probes on the terminals and your multi-meter set to Rx1, you should receive a reading of 16,600 ohms (+/- 5 percent).
+
+- If you receive a reading outside this range, you will need a replacement temperature sensor or thermistor.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/#TemperatureSensorOr
+refrigerator,Fridge and Freezer are too warm,Defrost Timer,"The defrost timer is an electro-mechanical timer that operates a set of contacts that control both the compressor circuit as well as the defrost heater circuit. Most timers will activate a defrost cycle every 8-10 hours of compressor run time. This normally occurs about once every day or two. The defrost timer will normally terminate the defrost cycle after 20 to 30 minutes and the compressor and fans will start again.
+
+How to test a refrigerator defrost timer with a multi-meter:
+
+- Disconnect your appliance from the power source and locate your defrost timer. It can be located behind the refrigerator's lower kickplate, in the refrigerator's control panel, or even behind the refrigerator on its back wall.
+
+- After locating it, remove the defrost timer from the appliance in order to test it
+
+- Using a multi-meter on the Rx1 setting, with one probe touching the common terminal (it should be labeled ""3"" or ""C""), touch the other lead to the other three remaining terminals, one at a time. Testing the first pair should produce a reading of zero, or near zero, denoting continuity. The second pair may also result in a reading of zero or near zero. Testing the third pair of terminals should produce a reading of infinity.
+
+- If you do not receive these readings, you will need a replacement defrost timer.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/#DefrostTimer
+refrigerator,Fridge and Freezer are too warm,Defrost Thermostat,"The defrost thermostat is a safety thermostat in series with the defrost heater and is used to terminate the defrost cycle when the evaporator reaches a specific temperature, usually rated at 38° to 47° Fahrenheit. If the thermostat is defective and remains open circuit, then the defrost heater will not be energized and no defrosting will take place.
+
+How to test a refrigerator’s defrost thermostat with a multi-meter:
+
+- Unplug your refrigerator and locate your refrigerator's defrost thermostat. In freezer-on-top models, it may be located under the floor of the unit, or it could be found at the back of the freezer. If you have a side-by-side refrigerator, the defrost thermostat is found at the back of the freezer side.
+
+- Once you have located it, remove the defrost thermostat in order to test it. You will have to remove any objects that are in your way such as the contents of the freezer, freezer shelves, icemaker parts, and the inside rear, back, or bottom panel.
+
+- Set your multi-meter to the Rx1 setting. Place each of the probes on a thermostat wire. When your thermostat is cold, it should produce a reading of zero on your multi-meter. If it is warm (anywhere from forty to ninety degrees Fahrenheit), then this test should produce a reading of infinity.
+
+- If the results you receive from your test differ from the ones presented here, then you will need a replacement defrost thermostat.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/#DefrostThermostat
+refrigerator,Fridge and Freezer are too warm,Defrost Heater,"The defrost heater is the device that melts the ice and frost from the evaporator coils. It is typically a wire filament contained in a glass or aluminum tube. There may be more than one heater depending on the shape of the evaporator.
+
+How to test a refrigerator defrost heater with a multi-meter:
+
+- Ensure that you have disconnected your appliance from the power source before beginning.
+
+- Locate your defrost heater. It can be located behind the back panel of the freezer section of your refrigerator, or under the floor of your refrigerator's freezer section. Defrost heaters are commonly located beneath a refrigerator's evaporator coils. You will have to remove any objects that are in your way such as the contents of the freezer, freezer shelves, icemaker parts, and the inside rear, back, or bottom panel.
+
+- Before you can test your defrost heater, you must remove it from your refrigerator. A defrost heater is connected by two wires, and the wires are connected with slip-on connectors. Firmly grasp these connectors and pull them off the terminals. You may need a pair of needle-nosed pliers to help you. Do not pull on the wires themselves.
+
+- Use your multi-meter to test the heater for continuity. Set your multi-meter to the Rx1 scale and place the tester's leads on one terminal each. This should produce a reading anywhere in between zero and infinity.
+
+- If you receive a reading of zero or infinity, you will need a replacement defrost heater.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/#DefrostHeater
+refrigerator,Fridge and Freezer are too warm,Condenser Fan Motor,"Most modern frost-free refrigerators will have a fan cooled condenser coil. This normally located near the compressor at the bottom rear of the refrigerator. The condenser fan circulates air through the condenser coil to remove heat. If the refrigerator is warmer than normal and the compressor is running almost continuously, then you may have a problem with the condenser fan motor. The condenser fan motor runs at the same time as the evaporator motor and the compressor. If the fan motor is not turning at all the condenser will not be able to expel the excess heat and the compressor will run almost continuously
+
+How to inspect a refrigerator condenser fan motor:
+
+- Begin by unplugging your refrigerator from the power source and then remove the rear access panel to locate the condenser fan motor, it is usually found at the bottom rear of the appliance. 
+
+- Once you have located it, Look for any debris or obstructions that could be preventing the fan from moving freely. You should also inspect the condenser fan motor for any signs of wear or damage..
+
+- If the fan motor is seized or worn, you will need a replacement condenser fan motor.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/#CondenserFan
+refrigerator,Door Sweating,Fresh Food & Freezer Door Gasket,"Leaky or damaged door seals can create excess moisture that is visible near the air outlet ducts or on shelves in the freezer. Damaged gaskets can also prevent doors from closing properly and may introduce enough moisture into the refrigerator that defrost issues may occur. Moisture along the edge of the door is a good indication that the gaskets are not sealing properly and should be replaced.
+
+How to inspect refrigerator door gaskets:
+
+- Take a piece of paper, and place it at various points along the door.
+
+- Close the door normally and slide the paper out.
+
+- If the paper slides out without any resistance, then you will need replacement fresh food & freezer door gasket(s).",https://www.partselect.com/Repair/Refrigerator/Door-Sweating/#FreshFoodAnd
+refrigerator,Door Sweating,Dispenser Door Assembly or Flapper & Ice Door Kit,"When activated, the ice dispenser door opens so that ice can be dispensed from the icemaker. The door or flapper is normally spring loaded and will have a vinyl or foam rubber seal attached to prevent room air from entering the refrigerator. If there is moisture around the front of the dispenser or if there is signs of moisture in the ice bin area, then this would indicate that the door is not closing completely. The flapper door is hinged and is normally operated by a solenoid with a return spring and often with a damper to slow the closing action to prevent the door from closing on an ice cube.
+
+How to inspect a refrigerator dispenser door assembly or flapper & ice door kit:
+
+- Remove the dispenser cover in order to inspect its components.
+
+- You should inspect the following parts for damage or wear.
+
+- Door hinges.
+
+- Door seal.
+
+- Door pivot mechanism.
+
+- Return spring.
+
+- Solenoid plunger and linkage.
+
+- Damper.
+
+- If you find any issues while checking the above parts, you may need a replacement dispenser door assembly or flapper & ice door kit.",https://www.partselect.com/Repair/Refrigerator/Door-Sweating/#DispenserDoorAssembly
+refrigerator,Door Sweating,Door Closure Cam Kit,"In some models of side-by-side refrigerators, closer cams on the lower door hinges are used to assist in closing the doors. The cams are made of hard plastic or nylon and have sloped shoulders on them that mate together. One cam is mounted to the bottom of the door and the other is mounted to the top of the hinge. When the door is opened, the door cam rotates up out of the hinge cam, lifting the door up and a detent allows it to stay in an open position. When closing the door, the weight of the door forces the door to pivot closed as the cams mate together. If either of these cams is broken, then the door may not close tightly. This would allow warm outside air to enter the refrigerator and cause condensation to form.
+
+How to inspect your refrigerator’s door closure cam kit:
+
+- Open your refrigerator door and locate the closer cams.
+
+- Visually inspect the closer cams to verify that they are not cracked, worn, or otherwise damaged.
+
+- If they are damaged, you will need a replacement closure cam kit.",https://www.partselect.com/Repair/Refrigerator/Door-Sweating/#DoorClosureCam
+refrigerator,Door Sweating,Door Hinge & Bearing,"Fresh food and freezer doors rotate on hinges. The hinges act as bearings and the doors should pivot easily on them. If the hinges become worn or dry of lubricant, they may prevent the doors from closing completely. This could allow room air into the refrigerator and cause moisture problems. A common symptom of a faulty hinge bearing is when opening or closing the door a thumping and/or scraping noise can be heard.
+
+How to check your refrigerator’s door hinge & bearings:
+
+- Open and remove your refrigerator door in order to locate the hinge & bearing.
+
+- Inspect the hinges for any signs of cracking or damage. If they are not damaged, lubricate the hinges with a food safe grease to see if that resolves the issue.
+
+- If they are damaged or greasing the hinges does not solve the issue, you need replacement door hinges & bearings.",https://www.partselect.com/Repair/Refrigerator/Door-Sweating/#DoorHingeAnd
+refrigerator,Light not working,Light Bulb Or Lamp,"Most light bulbs or lamps can be checked visually for a broken filament or can be checked with a multi-meter for continuity. You can also simply replace the bulb with a new one.
+
+How to test a refrigerator lightbulb with a multi-meter.
+
+- Remove the bulb from the refrigerator.
+
+- Set your multi-meter to the Rx1 setting.
+
+- Place one probe on the bottom of the lightbulb, and place the other on the threading of the bulb.
+
+- If you receive a reading of infinity, you need a replacement lightbulb.",https://www.partselect.com/Repair/Refrigerator/Light-Not-Working/#LightBulbOr
+refrigerator,Light not working,Light Sockets,"If you have verified that the light bulb or lamp is not defective, then you should next inspect the socket.
+
+How to inspect the light sockets of a refrigerator:
+
+- Unplug your refrigerator before close inspection of the socket as this is a live voltage circuit.
+
+- Inspect the socket for discolored terminals or heat damaged sockets that may prevent good connectivity to the light bulb or lamp.
+
+- If you find either of the above, you need a replacement light socket.",https://www.partselect.com/Repair/Refrigerator/Light-Not-Working/#LightSockets
+refrigerator,Light not working,Door Light Switch,"The interior light of your refrigerator is controlled by a switch that is activated when the door is opened and closed. If this switch malfunctions the light might not turn on consistently, if at all.
+
+How to test a refrigerator door light switch with a multi-meter:
+
+- Unplug your refrigerator and locate your door light switch. The location of the switch varies depending on the model of your refrigerator, but it is usually located somewhere near the top of the door opening. The switch is often mounted into the interior plastic liner and care should be taken when removing it to prevent damage to the liner.
+
+- Remove the switch in order to test it.
+
+- Set your multi-meter to the Rx1 setting to test the switch for continuity and place the probes on the switch’s terminals. The multi-meter reading should change from infinity to a reading of zero. Keep the leads touching the terminals and press in on the switch. The reading should change back to infinity.
+
+- If the results you receive are not consistent with these results, you need a replacement door switch.",https://www.partselect.com/Repair/Refrigerator/Light-Not-Working/#DoorLight
+refrigerator,Light not working,Light Bulb & Ice Dispenser,"If your model has an ice and water dispenser with a light bulb you should first verify that the bulb is good. These lights are normally low wattage and are not designed to be used as night lights. Extended periods of usage will typically cause premature failure of the bulb or damage to the socket. Most models will have an on/off switch on the control panel and that may be defective. You can check the switch for continuity with a multi-meter. The lamp or bulb socket may also be defective and the control plate will need to be removed for inspection.
+
+How to test a refrigerator ice dispenser light on/off switch:
+
+- Disconnect your refrigerator from the power source before beginning.
+
+- Locate and remove your control panel cover to access the on/off switch.
+
+- Remove the on/off switch from the appliance in order to test it.
+
+- Set your multi-meter to the Rx1 setting and place the probes on the switch’s terminals. You should receive a reading of zero. With the probes still on the terminals press in on the switch, the reading should change to infinity.
+
+- If your tests produce results different from those above, you will need a replacement dispenser door switch.",https://www.partselect.com/Repair/Refrigerator/Light-Not-Working/#LightBulbAnd
+refrigerator,Fridge too cold,Air Inlet Damper Or Baffle,"The air damper, baffle or diffuser is the device that balances the air flow from the evaporator fan housing. This normally is a mechanically controlled baffle or flapper that controls the amount of cold air entering the fresh food compartment. If the baffle is damaged or the linkage to the control knob is damaged, then too much cold air may enter the fresh food compartment resulting in lower than normal temperatures. The baffle or damper will be located where the cold air enters the fresh food compartment. The housing that the baffle or damper is encased in is often made of plastic with a Styrofoam lining and may have a foam seal to prevent air leakage.
+
+How to inspect a refrigerator’s air inlet damper or baffle:
+
+- Unplug your refrigerator and locate the damper or baffle. It is usually found where the cold air enters the fresh food compartment.
+
+- Use caution when inspecting the baffle or damper to not damage the plastic & Styrofoam housing that the baffle or damper is encased in.
+- If your model of has a temperature sensing bulb attached to this control make sure that the sensing bulb is in the correct position and not damaged.
+
+- The control knob should move freely, try to move it to verify that the linkage is intact and that it moves freely.
+
+- If the damper/baffle is stuck in the closed or nearly closed position or does not move freely, then you need a replacement air inlet damper or baffle.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Too-Cold/#AirInletDamper
+refrigerator,Fridge too cold,Temperature Sensor Or Thermistor,"Some electronic controls models will use a thermistor to sense the temperature. The electronic control monitors this temperature and will automatically adjust the damper. The temperature sensor is normally a plastic encased capsule with two wires attached and may be located near the air inlet. The thermistor will have a specific resistance based on temperature and is therefore difficult to diagnose without the manufacturer’s specifications. Some models may indicate a fault code when the sensor is faulty.
+
+How to test a refrigerator temperature sensor or thermistor with a multi-meter:
+
+- Verify that you have disconnected your appliance from the power source as you will be inspecting electrical components.
+
+- The thermistor(s) will be connected to the main control board, you will need to remove the back panel of your fridge to access the control board. Remove the thermistor(s) from the appliance in order to test them.
+
+- Thermistor(s) will produce different multi-meter readings based on their temperature when you test them. The ranges below only apply to thermistors at 32 degrees F. Before testing them, you will need to place the thermistor(s) in ice water for 5 minutes to bring the temperature to 32 degrees F.
+
+- Set your multi-meter to the Rx1 setting and touch the probes to the terminals, you should receive a reading of 16,600 ohms (+/- 5 percent).
+
+- If you receive a reading outside this range, you will need a replacement temperature sensor or thermistor.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Too-Cold/#TemperatureSensorOr
+refrigerator,Fridge too cold,Main Control Board,"Some newer models may have an electronic control board that controls all of the refrigerators functions. Sensors are connected to the board that monitor fresh food and freezer compartment temperatures and the control board will use that information to operate the compressor and fans as well as the defrost system and in some cases the air baffle/damper to balance temperatures. A defective control board could cause a symptom of the fresh food compartment being too cold, but you should first eliminate the sensors and the damper before changing the control. Some manufacturers may provide detailed information on the procedure for testing the board and the sensors.
+
+How to inspect a refrigerator’s main control board:
+
+- Disconnect your refrigerator from the power source, you will be inspecting electrical components.
+
+- The main control board is usually found inside the control box, which is inside the fridge, attached to the top or side of the fridge. Locate and remove the main control board from your appliance.
+
+- Looking for any signs of damaged foil, wear, burnt connections, arcing, or any other damage, inspect your main control board.
+
+- If you find any of the above, you need a replacement main control board.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Too-Cold/#MainControl
+refrigerator,Fridge too cold,Cold Control Or Temperature Control,"The cold control thermostat monitors the temperature inside the refrigerator and will operate the compressor and fans when the temperature rises. The control is often labeled as the refrigerator control but in some models may be called the freezer control. The control will have wires attached to it that operate the compressor circuit and will normally have an ""off"" setting on the knob. If the control is defective it may create a symptom of the fresh food section being too cold but would also lower the temperature in the freezer compartment as well, and the compressor would run longer than normal. Try adjusting both controls starting at the middle settings and monitor the temperatures for 24 hours before making any further adjustments.
+
+How to test your fridge’s cold control & temperature control with a multi-meter:
+
+- You will be handling electrical components, ensure you have disconnected the power source from your appliance before beginning. Begin by locating your control, it will be inside the fridge, usually in the fresh food section control panel, likely located directly behind the temperature adjustment knob.
+
+- After locating it, remove the control from the fridge, set the control to the lowest (warmest) setting, place your multi-meter on the Rx1 setting, and touch the probes to the terminals to test for continuity. You should receive a reading of infinity.
+
+- While still touching the terminals with the probes, change the control to a colder (higher) setting. This should change the reading from infinity to zero.
+
+- If your control fails either of the tests above, you will need a replacement cold control & temperature control.",https://www.partselect.com/Repair/Refrigerator/Refrigerator-Too-Cold/#ColdControlOr
+refrigerator,Fridge runs too long,Defrost Timer,"The defrost timer can be either a mechanical timer or an electronic ""adaptive defrost control"". Both are used to initiate the defrost cycle by turning on the defrost heater at specific intervals and for a specific amount of time. Mechanical timers are more common and usually activate a defrost cycle every 8-10 hours of compressor run time. This normally occurs about once every day or two. The defrost cycle will normally terminate after 20 to 30 minutes and the compressor and fans will start again. Adaptive defrost controls will monitor ambient conditions and previous defrost cycles and adapt the defrost cycle frequency and length to be more efficient.
+
+How to test a refrigerator defrost timer with a multi-meter:
+
+- Unplug your refrigerator before beginning.
+
+- Locate & remove the defrost timer from the appliance in order to test it. It can be found behind the refrigerator's lower kickplate, in the refrigerator's control panel, or even behind the refrigerator on its back wall.
+
+- Set your multi-meter to the Rx1 setting and touch one probe to the common terminal (it should be labeled ""3"" or ""C""). One at a time, touch the other lead to the other three remaining terminals. Testing the first pair should produce a reading of zero, or near zero, denoting continuity. The second pair may also result in a reading of zero or near zero. Testing the third pair of terminals should produce a reading of infinity.
+
+- If you receive different readings, you will need a replacement defrost timer.",https://www.partselect.com/Repair/Refrigerator/Running-Too-Long/#DefrostTimer
+refrigerator,Fridge runs too long,Defrost Heater,"The defrost heater is controlled by the defrost timer or adaptive defrost control and the defrost termination thermostat. The heater is normally a glass encased heater wire with well insulated wire leads.
+
+How to test a refrigerator defrost heater with a multi-meter:
+
+- Unplug your refrigerator before starting, you will be inspecting electrical components.
+
+- Remove your defrost heater. Defrost heaters are commonly located beneath a refrigerator's evaporator coils. You will have to remove any objects that are in your way such as shelves, icemaker parts, and the inside rear, back, or bottom panel(s). The defrost heater will have two wires connected to it, carefully grasp the metal connectors to remove them, do not pull the wires themselves.
+
+- With your multi-meter set onto Rx1 mode, place the probes onto the terminals of the defrost heater. You are testing for continuity and you should receive a reading between zero and infinity.
+
+- If you receive a reading of zero or infinity, you will need a replacement defrost heater.",https://www.partselect.com/Repair/Refrigerator/Running-Too-Long/#DefrostHeater
+refrigerator,Fridge runs too long,Defrost Termination Thermostat,"The defrost termination thermostat is used as a safety device to turn off the defrost heater when the temperature reaches a specific limit. The thermostat is normally wired in series with the defrost element and is normally open circuit above 35°- 47° Fahrenheit. For this reason it is sometimes difficult to check the continuity of the thermostat unless you are sure that the temperature is low enough to close the circuit. Newer style thermostats may have an internal bias resistor to aid in testing both the thermostat and the heater. The wiring diagram will normally indicate this.
+
+How to test a refrigerator’s defrost thermostat with a multi-meter:
+
+- Because you will be testing electrical components, ensure you have disconnected your appliance from the power source before beginning. 
+
+- Locate and remove the defrost thermostat in order to test it. In freezer-on-top models, it may be located under the floor of the unit, or it could be found at the back of the freezer. If you have a side-by-side refrigerator, the defrost thermostat is found at the back of the freezer side. You will have to remove any objects that are in your way, such as the contents of the freezer, freezer shelves, icemaker parts, and the inside rear, back, or bottom panel.
+
+- With your multi-meter on the Rx1 setting, touch the probes to a thermostat wire. When your thermostat is cold, it should produce a reading of zero on your multi-meter. If it is warm (anywhere from forty to ninety degrees Fahrenheit), then this test should produce a reading of infinity.
+
+- If your tests produce different results, then you will need a replacement defrost thermostat.",https://www.partselect.com/Repair/Refrigerator/Running-Too-Long/#DefrostTermination
+refrigerator,Fridge runs too long,Fresh & Freezer Door Gaskets,"Leaky or damaged door seals can create long run times but normally will just create excess moisture that is visible near the air outlet ducts or on shelves in the freezer. Moisture along the edge of the door is also a good indication that the gaskets are not sealing properly and should be replaced.
+
+How to inspect refrigerator door gaskets:
+
+- At various points around the fridge, place a piece of paper on the seal and close the door normally.
+
+- With the door closed, slide the paper out.
+
+- If you can slide the paper out without any resistance, then you will need a replacement fresh food & freezer door gasket(s).",https://www.partselect.com/Repair/Refrigerator/Running-Too-Long/#FreshAndFreezer
+refrigerator,Fridge runs too long,Condenser Fan Motor,"If your fridge sounds like it’s running more often than normal, the condenser fan motor could be to blame. If the condenser cannot expel heat efficiently, then the compressor and sealed system work harder to keep the refrigerator cold. Check for higher than normal surface temperatures on the cabinet between the fresh food and freezer doors as this area contains tubing attached to the condenser and will heat up if the condenser cannot be cooled fast enough.
+
+How to inspect a refrigerator condenser fan motor:
+
+- Before beginning, ensure that you have disconnected your appliance from the power source, and then locate the condenser fan motor. You will need to remove the rear access panel to find it, it should be near the compressor.
+
+- If the fan motor is seized or worn, you will need a replacement condenser fan motor.",https://www.partselect.com/Repair/Refrigerator/Running-Too-Long/#CondenserFan
+refrigerator,Fridge runs too long,Evaporator Fan Motor,"The evaporator fan is used to draw air over the evaporator coil and circulate the cold air throughout the fresh food and freezer compartments. If the evaporator fan does not work then the control thermostat or sensor may not correctly sense the temperature and the compressor will continue to run longer than normal. The fresh food and freezer compartment temperatures will increase as well.
+
+How to inspect a refrigerator evaporator fan motor:
+
+- Because you will be inspecting electrical components, ensure you have unplugged your appliance before beginning.
+
+- Locate the evaporator fan motor, it will be behind the evaporator fan cover, inside the freezer compartment.
+
+- If you notice a large amount of ice has built up on or around the motor, allow your freezer to defrost and see if that resolves the issue.
+
+- Attempt to manually turn the motor shaft, it should turn freely with minimal resistance. You should also inspect the fan and motor for any signs of wear or damage, removing any foreign objects in the area.
+
+- If it is noticeably worn, or if it is seized, you need a replacement evaporator fan motor.",https://www.partselect.com/Repair/Refrigerator/Running-Too-Long/#EvaporatorFan
+refrigerator,Fridge runs too long,Sealed System,"The sealed system in a refrigerator is comprised of the evaporator, the condenser and the compressor and the associated tubing. A defect in any of these components can cause a symptom of running too long or not cooling enough, and would have to be tested and/or serviced by a qualified refrigeration technician as it involves live voltage tests.",https://www.partselect.com/Repair/Refrigerator/Running-Too-Long/#SealedSystem
+refrigerator,Freezer too cold,Air Damper Or Freezer Control,"If the freezer section is too cold and the fresh food section temperature is normal you should suspect that the air damper or freezer control is adjusted improperly or may be defective, and is deflecting more than the normal amount of air into the freezer section and not enough into the fresh food compartment to satisfy the cold control and turn off the compressor. 
+
+How to inspect a refrigerator’s air damper or freezer control:
+
+- Unplug your refrigerator before beginning.
+
+- Locate your air damper or freezer control. It will usually be found in the fresh food compartment, behind a vent found on the top or side of the fridge.
+
+- Remove the vent and inspect the damper flap for any signs of wear or damage, attempt to manually move the flap. You should feel little or no resistance.
+
+- If you find any issues when performing the above checks, you will need a replacement air damper or freezer control. If you do not find the issue, suspect the evaporator coils or motor.",https://www.partselect.com/Repair/Refrigerator/Freezer-Too-Cold/#AirDamperOr
+refrigerator,Freezer too cold,Temperature Sensor Or Thermistor,"In models that use an Electronic Control, a thermistor or temperature sensor may be used to monitor fresh food and freezer temperatures. The control board uses this information to turn on the compressor and fan circuits as well as to operate the damper control on some models. If the sensor becomes damaged or defective it may incorrectly signal the control board to close the air damper too much and result in colder than normal freezer temperatures. Individual manufacturers may have specific information available to test these sensors, depending on the model involved, and may also provide a fault code on the electronic control board on some models.
+
+How to test a refrigerator temperature sensor or thermistor with a multi-meter:
+
+- Disconnect your refrigerator from the power source and then remove the back panel of your refrigerator to locate the main control board.
+
+- Locate and remove the thermistor(s), they will be attached to the main control board.
+
+- Place the thermistor(s) in ice water for 5 minutes before testing. The amount of resistance in a thermistor varies based on what their surface temperature is when they are measured. The range below only applies to thermistors measured at 32 degrees F.
+
+- Using a multi-meter on Rx1 mode, touch the terminals with the meter’s probes. The test should produce a reading of 16,600 ohms (+/- 5 percent).
+
+- If you receive a reading outside this range, you will need a replacement temperature sensor or thermistor.",https://www.partselect.com/Repair/Refrigerator/Freezer-Too-Cold/#TemperatureSensorOr
+dishwasher,Noisy,Pump,"A defective pump could be the reason your dishwasher is making loud noises. The function of the pump is to pressurize the spray arms, and in most models, it is also used to drain the water. The pump sits at the bottom of the dishwasher and typically consists of two separate compartments; one for wash or circulation and the other for draining. The circulation part of the pump will typically consist of the wash impeller and the filter components while the drain portion will consist of a drain impeller and a chopper blade or in some cases, a solenoid operated diverter. The impellers are driven by an electric motor that is attached to the bottom or side of the pump.
+
+How to test a dishwasher pump with a multimeter:
+
+- Unplug your dishwasher before beginning this test; you will be handling electrical components.
+
+- Remove the pump in order to test it. The pump is usually found behind the lower access panel.
+
+- Using a multimeter on Rx1, place the probes onto the terminals to test for continuity. You should receive a reading of zero or nearly zero. To test the ground connection, with one probe still on a terminal, touch the other probe to the bare metal housing of the pump. You should not receive any reading from this test.
+
+- If your test results do not match those above, you will need a replacement pump.",https://www.partselect.com/Repair/Dishwasher/Noisy/#Pump
+dishwasher,Noisy,Wash Arm Bearing Ring & Spray Arm Seal,"If your dishwasher is noisy, the cause could be a wash arm seal or bearing ring. These parts are plastic rings that support the wash arm or the spray arm and that the arm rotates on. Either of these parts could be loose or be worn, causing the spray arm to not function properly.
+
+How to inspect your wash arm bearing ring & spray arm seal:
+
+- While you will not be disassembling your appliance, we still recommend unplugging your appliance before beginning.
+
+- Locate your wash arm bearing ring & spray arm seal. They will be found attached to the spray/wash arms.
+
+- Visually inspect them for signs of wear, cracking, or damage. You may need to remove the spray/wash arms to fully inspect them, depending on your model.
+
+- If you find signs of the above symptoms, you will need replacement wash arm bearing rings and/or spray arm seals.",https://www.partselect.com/Repair/Dishwasher/Noisy/#WashArmBearing
+dishwasher,Noisy,Spray Arms,"Water is forced through the dishwasher spray arms to spray water and detergent around the dishwasher. All dishwashers have a lower spray arm located at the bottom of the dishwasher, and some dishwashers also have middle or upper spray arms located below the top dish rack or at the top of the dishwasher tub.
+
+How to inspect dishwasher spray arms:
+
+- For safety, disconnect the power from your appliance before beginning.
+
+- Manually spin your spray arms to ensure they are not hitting the racks and are turning freely. The spray arms should not be wobbly.
+
+- Visually inspect your spray arms for any signs of wear, cracking, or damage.
+
+- If you find any issues while performing the checks above, you will need replacement spray arms.",https://www.partselect.com/Repair/Dishwasher/Noisy/#SprayArms
+dishwasher,Leaking,Pump,"A defective pump and/or pump seal may be the cause of a dishwasher leak. The function of the pump is to circulate water in the dishwasher and in some models, to drain the water as well. The pump typically consists of two separate compartments; one for wash or circulation and the other for draining. The circulation part of the pump will typically consist of the wash impeller and the filter components while the drain portion will consist of a drain impeller and a chopper blade or in some cases, a solenoid operated diverter.
+
+How to test a dishwasher pump with a multimeter:
+
+- Disconnect the power from your appliance before beginning.
+
+- On most models, the pump will be found behind the lower access panel. Locate and remove your dishwasher pump in order to test it.
+
+- To test for continuity, set your multimeter to Rx1 and touch the terminals with the probes. This test should produce a reading of exactly or nearly zero. You should also check the ground connection of the pump. To do this, leave one probe on the terminal and touch the other to the bare metal housing of the pump. This test should not produce any reading.
+
+- If your readings differ from the results above, you will need a replacement pump.",https://www.partselect.com/Repair/Dishwasher/Leaking/#Pump
+dishwasher,Leaking,Door Gasket,"If water appears to be leaking around the front of the dishwasher, the problem may be with the door gasket. The dishwasher door gasket or seal is normally made of soft rubber or vinyl and goes around the door or tub opening of the dishwasher, creating a watertight seal. Some dishwasher models have rubber baffles located at the bottom corners of the tub opening that prevent water leaking in that area. When vinyl or rubber ages, it can become less flexible or even brittle and may damage easily or not seal properly.
+
+How to inspect a door gasket on a dishwasher:
+
+- Open your dishwasher door to locate the door gasket, and baffles if applicable.
+
+- Visually inspect the gasket for any signs of wearing, damage, missing pieces, or misalignment.
+
+- If you find any of the above, you will need a replacement door gasket.",https://www.partselect.com/Repair/Dishwasher/Leaking/#DoorGasket
+dishwasher,Leaking,Water Inlet Valve,"The water inlet valve feeds the water from your home’s main water line into the dishwasher and could be the source of a leak. The inlet valve can be found behind the lower kick plate. The hot water inlet supply to the valve may be copper tubing, rubber hose or braided hose.
+
+How to test a dishwasher water inlet valve:
+
+- Similar to most other inspections, begin by disconnecting your appliance from both the power and the water source.
+
+- In order to access the water inlet valve, you will need to remove the lower access panel of your appliance. The valve will likely be located on the left side.
+
+- Begin by inspecting the body of the valve. You are looking for any signs of cracking, damage, wear, or any other indication of a leak.
+
+- If you find any of the above, you will need a replacement water inlet valve.",https://www.partselect.com/Repair/Dishwasher/Leaking/#WaterInlet
+dishwasher,Leaking,Dispensers & Grommets,"The detergent dispenser and the rinse aid dispenser are normally located on the inner door panel of the dishwasher. Some models use a dispenser assembly that is attached to the panel with screws and a gasket to seal against water leaks. Other models may use a dispenser that is molded into the door panel but uses a dispenser latch assembly that is attached to the back of the inner panel and use a rubber grommet to seal around the dispenser latch where it protrudes through the door panel. If you have a water leak that appears to come from the front of your dishwasher, the dispenser gasket or the dispenser latch grommet may be the cause.
+
+How to inspect a dishwasher detergent/rinse aid dispenser & grommets:
+
+- For safety, unplug your dishwasher before beginning.
+
+- Open the dishwasher door to visually inspect the dispenser.
+
+- First, inspect the lever for cracking or damage, a broken lever would prevent the dispenser from opening or closing properly. Next, inspect the dispenser cover for any wear or damage. Finally, inspect the container itself for cracks or other damage.
+
+- If you find any issues while performing the inspections above, you will need a replacement dispenser.",https://www.partselect.com/Repair/Dishwasher/Leaking/#DispensersAnd
+dishwasher,Leaking,Spray Arm,"Water is forced through the dishwasher spray arms to spray water and detergent around the dishwasher. All dishwashers have a lower spray arm located at the bottom of the dishwasher, and some dishwashers also have middle or upper spray arms located below the top dish rack or at the top of the dishwasher tub. Most spray arms are made of plastic which can crack or warp enough to change the spray pattern significantly. Metal spray arms can become damaged or separate at the seams which can also alter the spray pattern. These conditions can cause water to be directed at the bottom of the door where there is no gasket and therefore creating a water leak.
+
+How to inspect dishwasher spray arms:
+
+- While not crucial, we recommend you unplug your dishwasher before starting this inspection.
+
+- Begin by inspecting the arms for any signs of cracking, wear, or any other damage.
+
+- Next, manually spin the spray arms. You should be feeling to see if there is any resistance, if they are wobbling, or if they hit the dish racks. Additionally, inspect to see if any of the holes in the arms are clogged, clear out anything you may find.
+
+- If you find any of the issues described above, you will need replacement spray arms.",https://www.partselect.com/Repair/Dishwasher/Leaking/#SprayArm
+dishwasher,Leaking,Float & Float Switch,"The float and float switch are used as a safety device to prevent the dishwasher from overfilling with water. The float is located inside of the tub at the bottom of the dishwasher and the float switch is located beneath the tub directly below the float. The float lifts as the water level in the dishwasher rises, and when the proper water level is reached, the stem of the float activates the float switch to turn off the water inlet valve. A malfunctioning float or float switch could cause the water level to be too high and create a leak. The proper water level is normally just to the heating element on the bottom of the tub. If the water level in your dishwasher is too high, then you should suspect that the float or float switch may be the cause of the problem.
+
+How to test a dishwasher float switch with a multimeter:
+
+- Disconnect your dishwasher from the power source as well as the water supply.
+
+- The float switch will be found inside your dishwasher’s tub; you will need to remove the lower access panel to access it. The switch is usually located directly below the float assembly, once you have located it, remove it in order to test it.
+
+- Using a multimeter set to Rx1, touch the switch’s terminals with the probes to test for continuity. You should receive a reading of zero or infinity. With the probes still touching the terminals, press in on the switch’s button, this should change it to the opposite extreme (from zero to infinity, or infinity to zero).
+
+- If your test results differ from those above, you will need a replacement float switch.",https://www.partselect.com/Repair/Dishwasher/Leaking/#FloatAndFloat
+dishwasher,Leaking,Hose Clamps & Hoses,"The hose clamps secure the drain hose and the circulating hose to the dishwasher pump. These hoses and clamps can be found by removing the kickplate at the bottom of the dishwasher. If the clamps have come loose or the hoses have cracks in them, it could be the cause of a leak. Be sure to check the clamps on both the drain hose and the circulating hose.
+
+How to inspect dishwasher hoses:
+
+- Disconnect the water supply as well as the power source from your appliance before beginning.
+
+- The hoses are usually found behind the lower access panel (or kickplate). You will need to remove this in order to locate them.
+
+- You will be checking two hoses, both of which are connected to a pump below the lower spray arm: The drain hose and the recirculation hose. Remove both hoses in order to inspect them.
+
+- Visually inspect the hoses for any signs or wear, cracking, or damage. Attempt to run water through each to identify if there is a blockage inside the hose.
+
+- If you find any issues while performing the inspection above, you will need a replacement hose.",https://www.partselect.com/Repair/Dishwasher/Leaking/#HoseClampsAnd
+dishwasher,Will not start,Door Latch Or Door Latch Switch,"If your dishwasher won’t start, the problem could be the door latch or door latch switches. The door latch assembly is used to hold the door closed during the cycle to prevent water from leaking and it also incorporates the door latch switches that supply power to the dishwasher controls. If the door cannot close properly to activate the door latch switches or if the switches are defective, then the dishwasher controls will not receive power and the dishwasher will not start. Inspect the latch assembly including the switches.
+
+How to test a dishwasher door latch assembly with a multimeter:
+
+- Disconnect your appliance from the power source before beginning.
+
+- Begin by removing the inner door panel to gain access to the door latch assembly. It is usually found at the top of the door. Once you have located it, verify that the door catch activates the door latch switches by inserting the catch into the assembly.
+
+- If the switches are being activated mechanically, remove the switches to check them for continuity. Using a multimeter on Rx1, touch the probes to the switch’s terminals. This should produce a reading of zero or nearly zero.
+
+- If you receive a different reading, you will need a replacement door latch assembly.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/#DoorLatchOr
+dishwasher,Will not start,Timer Or Electronic Control,"If you have determined that the door latch assembly is operating properly and your dishwasher still won’t start, the next step would be to look at the timer or electronic control. The first step of the dishwasher cycle is normally a drain function to remove any standing water in the tub. If you do not hear the drain pump motor running, then you should look at the timer or electronic control as a possible cause. On manual timer models, the timer is used to supply power to the pump motor, water inlet valve, heater circuit and drain pump motor at the proper sequence in the cycle. The timer uses a series of electrical contacts that are driven by a small motor all of which are encased in the timer housing.
+
+How to test a dishwasher timer with a multimeter:
+
+- Disconnect your appliance from the power source.
+
+- Locate and remove the timer. It will most likely be found in the control panel, but it is also often found behind the lower kick plate.
+
+- Some timers may have multiple sets of contacts/wires, if this is true for your model, you will need to refer to your wiring diagram to determine which contacts to test.
+
+- Set your multimeter to Rx1000 and touch the contacts with the probes. Most functioning timers will fall in the range of 2000-3500 ohms of resistance, but this varies between models. Refer to your owner's manual to determine what reading your test should produce.
+
+- If your test results differ from the manufacturer's recommendations, you will need a replacement timer.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/#TimerOrElectronic
+dishwasher,Will not start,Selector Switch,"The selector switch on a dishwasher is used to select different options for the individual cycles, such as heated dry and heated wash cycles. Depending on the model involved, the switch may be used in the motor or fill circuit and could cause a dishwasher to not start if it were defective or if the selector buttons were not fully depressed. Check to ensure that the switch is properly depressed before attempting any disassembly. The contacts of the selector switch can be checked for continuity with a multimeter using the schematic diagram as a guide.
+
+How to test a dishwasher selector switch with a multimeter:
+
+- Begin by disconnecting your appliance from the power source.
+
+- Remove the inner door panel of your dishwasher in order to locate the selector switch. It most likely will be found on the control panel. Once you have located it, ensure that the switch is properly depressed. If it is, remove it from the appliance in order to test it.
+
+- Using a multimeter set to Rx1, touch the probes to the terminals of the switch, you will need to test each button individually. This should produce a reading of infinity. Next, with the probes still on the terminals, press in on the button of the terminals you are testing. This should change your reading to zero. Repeat this test for all other buttons.
+
+- If any of your readings do not match the results above, you will need a replacement selector switch.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/#SelectorSwitch
+dishwasher,Will not start,Motor Start Relay,"Some models of dishwashers use a start relay on the main pump motor. The start relay is used to supply power to the motor start windings until the motor is running and has a moving plunger inside that operates a set of contacts. If your dishwasher won’t start and you have verified that you are getting power from the control circuit to the motor, then the motor start relay may be defective.
+
+How to test a dishwasher motor start relay:
+
+- Ensure that you have unplugged your dishwasher before beginning.
+
+- The motor start relay is normally located next to the pump. Remove the lower access panel of your dishwasher in order to locate the motor start relay. Once you have found it, remove it in order to test it.
+
+- After referring to your wiring diagram, set your multimeter to Rx1 and begin by testing the coil portion of the relay for continuity. This test should produce a reading of zero or nearly zero. Next, you will need to manually activate the relay by turning it upside down and allowing the plunger to drop. Once it is activated, touch the probes to the terminals of the relay. This test should also produce a reading of zero or nearly zero.
+
+- If your test results differ from those above, you will need a replacement motor start relay.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/#MotorStart
+dishwasher,Will not start,Thermal Fuse,"Some models of electronic controlled dishwashers use a thermal fuse to protest the control board. The thermal fuse is normally located on the top side of the circuit board assembly with two wires attached to it. When the thermal fuse fails, the control board will not receive power and the dishwasher will not start.
+
+How to test a dishwasher thermal fuse with a multimeter:
+
+- Unplug your appliance before beginning this test, you will be handling electrical components.
+
+- Remove the inner door of your dishwasher in order to access the control panel. The thermal fuse will be attached to the control panel by 2 wires, carefully disconnect these wires and remove the thermal fuse in order to test it.
+
+- With a multimeter set to Rx1, touch the fuse’s contacts with the probes. You are testing for continuity and should receive a reading of zero or nearly zero.
+
+- If you do not receive this reading, you will need a replacement thermal fuse.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/#ThermalFuse
+dishwasher,Will not start,Drive Motor,"A dishwasher’s drive motor is the part that circulates the water to wash the items inside. Electrical power to operate the drive motor is supplied through the timer, or the electronic control, in conjunction with a start relay. If the dishwasher won’t start after the start relay sends power to the motor, this could indicate that the drive motor is defective. You may also hear a loud, humming noise coming from the motor – this could indicate a seized motor, which would need to be replaced.
+
+How to test a dishwasher drive motor with a multimeter:
+
+- Before starting, ensure that you have disconnected your dishwasher from the power source.
+
+- Remove the lower access panel of your appliance in order to locate the drive motor. Once you have located it, carefully disconnect the wires attached to it and remove it in order to test it for continuity.
+
+- With the motor removed from the appliance, set your multimeter to Rx1 and touch the probes to the motor’s terminals. A functional drive motor will produce a reading of zero or nearly zero. Next, test the ground connection by moving one of the probes to the bare metal housing of the motor. This test should not produce any reading. 
+
+- If either of your tests produces different readings, you will need a replacement drive motor.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/#DriveMotor
+dishwasher,Door latch failure,Door Latch Assembly,"If your door latch is not working properly, the first thing to inspect should be the door catch. The door catch is attached to the top of the dishwasher tub and is normally adjustable. If not adjusted properly it can cause the door latch to not activate and will prevent the dishwasher from working, or it may not close the door tight enough to prevent a leak. The door latch may also be worn and no longer creates a tight fit, in which case the door latch will need to be replaced.
+
+How to test a dishwasher door latch assembly with a multimeter:
+
+- Verify that you have unplugged your dishwasher before beginning.
+
+- The door latch assembly is most often found inside the inner door panel, near the top of the door. Remove your inner door panel and locate the door latch assembly.
+
+- Inspect the door catch to verify that it is mechanically activating the switches. If it is, remove the switches in order to test them for continuity.
+
+- Set your multimeter to Rx1 and touch the terminals with the probes. You are testing for continuity and should receive a reading of exactly or nearly zero.
+
+- If your test produces any other reading, you will need a replacement door latch assembly.",https://www.partselect.com/Repair/Dishwasher/Door-Latch-Failure/#DoorLatch
+dishwasher,Not cleaning dishes properly,Upper Discharge Housing Gasket,"If you are experiencing low pressure from the spray arms, the upper discharge housing gasket could be the source of the problem.
+
+How to inspect a dishwasher upper discharge housing gasket:
+
+- For safety, unplug your dishwasher before starting this repair.
+
+- This housing gasket is located on the discharge cover above the circulation impeller. The gasket may have just come loose, or it may need to be replaced altogether. Locate your gasket in order to inspect it.
+
+- Inspect the gasket for any signs of wear, damage, cracking, missing chunks, and if it is properly attached. If it is loose, ensure that there is no debris that is preventing a proper seal and then reattach it.
+
+- If you find your housing gasket is damaged or worn, you will need a replacement upper discharge housing gasket.",https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/#UpperDischargeHousing
+dishwasher,Not cleaning dishes properly,Spray Arm,"The lower spray arm (as well as the upper and middle spray arms if applicable) could be the reason why your dishwasher is not cleaning properly. The function of the spray arms is to spray the dishes with a strong stream of hot water and detergent. If some of the holes are plugged, then you should also inspect the filter system for a possible problem. Cracks or separated seams in the spray arms will impair the force of the spray as well. If your dishwasher has an upper spray arm also inspect the spray arm mounting bracket to make sure it hasn't become loose, cracked or otherwise restricted.
+
+How to inspect dishwasher spray arms:
+
+- Disconnect the appliance from the power source before beginning.
+
+- Open your dishwasher and visually inspect your spray arms. You are looking for any signs of wear, cracking, or damage. Inspect the holes of the arms to see if any dirt or debris is lodged in them, clean out anything you find.
+
+- Turn the spray arms manually. While doing so, you should be inspecting if there is much resistance, if the arms are wobbling, or if the arms hit the dish racks.
+
+- If your spray arms show any of the above symptoms, you will need replacement spray arms.",https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/#SprayArm
+dishwasher,Not cleaning dishes properly,Docking Station,"If your dishwasher has a middle spray arm attached to an adjustable upper rack, then you should inspect the docking station along with its flappers. The docking provides water to the middle spray arm and usually has two outlets.
+
+How to inspect a dishwasher docking station:
+
+- Before beginning this inspection, disconnect the power supply from your appliance.
+
+- The docking station can be found at the back of the dishwasher on the water supply tube. Locate your docking station in order to inspect it.
+
+- Begin by checking to see if the docking station is connected securely to the water supply tube. Next, check the flappers to make sure they can move freely and that they will close securely. You should also inspect all components, particularly the plastic pieces, of the docking station for signs of cracking, wear, or damage.
+
+- If you find any issues while performing the checks above, you will need a replacement docking station.",https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/#DockingStation
+dishwasher,Not cleaning dishes properly,Chopper,"The food chopper, chops up the food particles that were left on your dishes into tiny pieces so that they can easily pass through the drain portion of the dishwasher pump. If the food particles are not chopped finely enough, the debris may prevent the dirty water from draining and could possibly get re-circulated in the dishwasher. If your dishwasher is not cleaning properly, inspect the drain portion of the pump, if you find that there is food debris; check the food chopper to see if it is damaged.
+
+How to inspect a dishwasher chopper:
+
+- Disconnect your appliance from the power source before beginning.
+
+- In order to access the food chopper, you will need to remove the lower spray arm as well as the spray tower. Once you have access to it, remove the food chopper in order to closely inspect it.
+
+- Visually inspect the food chopper for any signs of wear, discoloration, damage, or cracking. Remove any debris you may find on or near the chopper.
+
+- If you find your chopper shows any of the symptoms above, you will need a replacement chopper.",https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/#Chopper
+dishwasher,Not cleaning dishes properly,Water Inlet Valve,"The water inlet valve one of the most common dishwasher parts to fail and could be the cause of a dishwasher that is not cleaning the dishes well, if it is not providing the proper water level in the tub.
+
+How to inspect a dishwasher water inlet valve:
+
+- Disconnect the water supply and the power source from your appliance before beginning this inspection.
+
+- The water inlet valve is usually located behind the lower access panel. Remove the lower access panel in order to locate the inlet valve.
+
+- Once you have located it, visually inspect the water inlet valve for any signs of cracking, wear, or other damage.
+
+- If any issues are found during your inspection, you will need a replacement water inlet valve.",https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/#WaterInlet
+dishwasher,Not cleaning dishes properly,Water Delivery Tube,"If your dishwasher has an upper spray arm, then the water delivery tube may be the cause of the problems. The water delivery tube or wash arm manifold is a tube typically made of plastic that supplies water from the pump to the upper spray arm and on some models to the middle spray arm.
+
+How to inspect a dishwasher water delivery tube:
+
+- Unplug your dishwasher before starting this inspection.
+
+- Locate your water delivery tube in order to inspect it. You likely will need to remove your dishwasher’s lower access panel.
+
+- Begin by checking the alignment of the tube, it should be aligned with the spray arms and have no restrictions impeding the flow of water. On some models, there is a filter inside the tube. If this is the case for your dishwasher, inspect the filter to see if it has become plugged. You should also visually inspect your water delivery tube to ensure it is not worn or damaged.
+
+- If you find any issues while performing the inspections above, you will need a replacement water delivery tube.",https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/#WaterDelivery
+dishwasher,Not cleaning dishes properly,Filters,"All dishwashers will have one or more filters to remove food particles from the wash water during the cycle. These filters are typically self-cleaning, but under certain water conditions or detergent usage these filters can become clogged.
+
+How to inspect dishwasher filters:
+
+- Unplug your dishwasher before beginning these inspections.
+
+- Locate and remove the filters in the circulating portion of the pump and/or in the wash arm manifold.
+
+- Clean any debris you find in the filters. Visually inspect the filters to see if they have become torn or otherwise damaged.
+
+- If you find any issues with your filters, you will need a replacement dishwasher filter.",https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/#Filters
+dishwasher,Not cleaning dishes properly,Wash Spinner,"If the third level wash spinner has come loose, is not properly fitted or is cracked, it may be the reason why your dishes are not coming out as clean as they should be.
+
+How to inspect a dishwasher wash spinner:
+
+- To ensure your safety, unplug your dishwasher before starting.
+
+- Locate your wash spinner, it will be found on the water feed tube, which is found at the rear of the wash tub. You may need to remove wash arms or other components in order to access it, depending on your model.
+
+- Inspect the area around the wash spinner to ensure there are no obstructions preventing it from turning freely. You should also visually inspect it for any signs of discoloration, cracking, or damage.
+
+- If you find your spinner shows any of the above issues, you will need a replacement wash spinner.",https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/#WashSpinner
+dishwasher,Not cleaning dishes properly,Detergent Dispenser,"The detergent dispenser could be the cause of the dishwasher not cleaning your dishes. First, make sure you are using a high-quality detergent, and if you are using gel or tablets, consider switching to a powdered detergent as it dissolves faster. If your detergent cup has a prewash compartment, you could consider adding detergent to this compartment. Make sure you are using enough detergent based on your local water conditions. Hard water will require more detergent than soft water, but be careful to not use too much detergent as you could cause damage to your glassware.
+
+How to inspect a dishwasher detergent dispenser:
+
+- To ensure your safety, be sure to unplug your appliance before beginning.
+
+- The detergent dispenser will most likely be found on the inside of the door. You will not need to remove it to perform this inspection.
+
+- Begin by running a test cycle with detergent in the dispenser to verify that the detergent is being released during the cleaning cycle.
+
+- If It is, visually inspect the dispenser for any signs of wear or damage. Additionally, you should clean any clogged or caked-on detergent off the dispenser, as this may be preventing the detergent from being released properly.
+
+- If you find any issues during your inspection, you will need a replacement detergent dispenser.",https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/#DetergentDispenser
+dishwasher,Not cleaning dishes properly,Heating Element,"Dishwashers need adequate hot water to properly clean the dishes, usually about 140 degrees Fahrenheit. The heating element, found at the bottom of the dishwasher is used to maintain the temperature of the water in the dishwasher, or to heat the water higher than normal for certain cycles depending on the cycle option selected. It is important to note that the heating element is not used to heat the water for normal wash cycles, so before checking the heating element, ensure that the water entering your dishwasher is hot enough. Please note that water hotter than 140-150 degrees is not recommended as damage to your dishes can occur with very hot water. Before starting a washing cycle, run the hot water in your sink for a few minutes. If hot water is going into your dishwasher, but the water temperature falls during the cycle even with a heating option selected, then you may need to replace the heating element.
+
+How to test the heating element in a dishwasher with a multimeter:
+
+- Begin by disconnecting your appliance from the power source.
+
+- Locate your heating element, it will be found on the bottom of the tub and depending on your model, it may have a cover. If it does have a cover, remove it.
+
+- Remove the lower access panel and disconnect wires attached to the heating element’s terminals that protrude through the base of the dishwasher.
+
+- Set your multimeter to the Rx1 setting and touch the terminals with the probes. The reading of a functional heating element varies between models but will fall between zero and infinity, refer to your owner’s manual to determine what reading you should receive. If your reading is exactly zero or infinity, it is defective.
+
+- If your heating element’s reading is outside the manufacturer’s recommended range, you will need a replacement heating element.",https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/#HeatingElement
+dishwasher,Not cleaning dishes properly,Pump Impellers,"In a dishwasher there are two impellers, the wash impeller and the drain impeller located within the dishwasher’s pump. The wash impeller is the part that circulates the water and pressurizes the spray arms. The drain impeller, if used on your model, is used only to drain the dishwasher.
+
+How to inspect dishwasher pump impellers:
+
+- Disconnect the power source from your dishwasher before starting this inspection.
+
+- The pump impellers will be found attached to the pump/motor. Depending on your model, you will need to remove all or some of the following parts to access the impellers: lower access panel, spray arm, pump housing, & screen. Once you have access to them, remove the impellers to closely inspect them.
+
+- Visually inspect your impellers for any signs of cracking, wear, damage, or discoloration. Additionally, ensure that there are no debris preventing them from moving freely when in place.
+
+- If you find any issues while performing the checks above, you will need replacement impellers.",https://www.partselect.com/Repair/Dishwasher/Not-Cleaning-Properly/#PumpImpellers
+dishwasher,Not draining,Piston & Nut Assembly,"Some models of dishwashers utilize a check valve as part of the drain pump. Within the check valve, there is the piston and nut assembly. If your dishwasher is not draining water properly, the piston and nut assembly could be the source of the problem.
+
+How to inspect a dishwasher piston & nut assembly:
+
+- Disconnect your appliance from the power source.
+
+- Locate your piston & nut assembly. It likely will be found on the bottom of the tub, beneath the sump cover.
+
+- Inspect your piston & nut assembly to determine if it is functioning properly. The assembly should move up and down freely. When the piston is in the down position, it should form a tight seal. If it is not forming a complete seal, the dishwasher will not completely pump out the water.
+
+- If you find any issues while performing the inspection, you will need a replacement piston & nut assembly.",https://www.partselect.com/Repair/Dishwasher/Not-Draining/#PistonAndNut
+dishwasher,Not draining,Drain Pump & Motor,"All dishwashers will have a method to drain the water. Most models will have a single motor driven pump with two separate compartments, one for circulation and one for drain, each with its own impeller. Other types will have a separate drain pump, and some will utilize the main circulating pump in conjunction with a drain solenoid and diverter valve or flapper. On models that use a separate drain pump, you should check to see if there is any obstruction to the input and output of the pump and also verify that there is power getting to the pump motor during the drain portion of the cycle.
+
+How to test a dishwasher pump with a multimeter:
+
+- Before beginning, ensure that you have disconnected your appliance from the power source.
+
+- Locate and remove your dishwasher pump. It likely will be found behind the lower access panel.
+
+- Once you have removed it, using a multimeter on Rx1 mode, touch the pump’s terminals with the probes. You are testing for continuity and should receive a reading of zero or nearly zero. Next, you should test the ground connection by touching one of the probes to the bare metal housing while leaving one on a terminal. This test should not produce any reading.
+
+- If the results of your tests are different from the above, you will need a replacement pump.",https://www.partselect.com/Repair/Dishwasher/Not-Draining/#DrainPumpAnd
+dishwasher,Not draining,Check Valve Flapper,"Some dishwasher models will use a check valve in the drain outlet. The check valve is used to allow water to flow in one direction but will prevent the dirty water from re-entering the dishwasher. If you suspect that the drain hose has a restriction or if you find that wastewater is getting back into the dishwasher tub, then the check valve is most likely the problem.
+
+How to inspect the check valve flapper in a dishwasher:
+
+- To ensure your safety, unplug your dishwasher before beginning this inspection.
+
+- Locate your check valve flapper in order to inspect it. In most models, it will be found on the outlet port of the drain pump or housing. You will need to remove the lower access panel in order to inspect it.
+
+- Visually inspect the flapper for any signs of wear or damage. You should also check to see if there is any dirt or debris preventing the flapper from moving freely, remove anything you may find.
+
+- If your valve is damaged, or if you find no objects preventing it from opening properly, you will need a replacement check valve flapper.",https://www.partselect.com/Repair/Dishwasher/Not-Draining/#CheckValve
+dishwasher,Not draining,Belt,"Some older dishwashers may use a belt driven pump. If the belt has come off or is slipping, then the pump that drains the dishwasher won’t function properly.
+
+How to inspect a dishwasher belt:
+
+- Similar to other dishwasher inspections, disconnect your appliance from the power source before beginning.
+
+- Your dishwasher belt will be found behind the lower access panel, attached to a pulley on the pump assembly and to another pulley on the motor assembly. Remove the belt in order to closely inspect it.
+
+- Looking for any signs of burning, stretching, cracking, damage, or wear, inspect the belt.
+
+- If you find any issues while inspecting it, you will need a replacement belt.",https://www.partselect.com/Repair/Dishwasher/Not-Draining/#Belt
+dishwasher,Not draining,Timer,"Some dishwashers will use a mechanical timer to operate the cycles. The timer controls the main pump motor as well as the drain solenoid or separate drain pump motor if your model has that style. The timer is normally located in the control panel at the top of the dishwasher door. You will require a wiring diagram and schematic to identify the correct timer contacts that control the drain cycle. These can then be checked for continuity with a multi-meter and if defective then the timer will need to be replaced.
+
+How to test a dishwasher timer with a multimeter:
+
+- Unplug your dishwasher before beginning this test.
+
+- Your timer will likely be found either in the control panel or behind the lower kickplate. Locate and remove your appliance’s timer in order to test it.
+
+- If your model has multiple sets of contacts/wires, you will need to refer to your owner’s manual to determine which sets to test.
+
+- Remove the timer from your appliance, set your multimeter to Rx1000, and touch the contacts/wires with the probes. In most models, a functional timer will produce a reading of 2000-3500 ohms of resistance, but this varies from model to model. Please refer to your owner's manual to determine what reading you should see.
+
+- If the results of your test are different than the manufacturer’s guidelines, you will need a replacement timer.",https://www.partselect.com/Repair/Dishwasher/Not-Draining/#Timer
+dishwasher,Not draining,Drain Hose,"A dishwasher will not drain properly if it has a restricted or clogged drain hose. Restrictions typically appear most often at the outlet from the pump or drain housing where a check valve may be located, at the input to the household drain system or anywhere that a kink may have formed in the drain hose. If food debris has caused a restriction, then you should check the condition of the food chopper as a possible source of the problem.
+
+How to inspect a dishwasher drain hose:
+
+- Verify that the water and power sources have been disconnected from your dishwasher before beginning this inspection.
+
+- Remove the lower access panel of your appliance and locate the drain. It will be connected to a pump below the lower spray arm.
+
+- Remove the hose in order to inspect the drain hose closely. You are looking for any visible signs of cracking, damage or wear. You should also attempt to run water through the hose to determine if there is a blockage inside.
+
+- If any issues are found while doing the inspections above, you will need a replacement hose.",https://www.partselect.com/Repair/Dishwasher/Not-Draining/#DrainHose
+dishwasher,Will not fill with water,Water Inlet Valve,"The water inlet valve is used to fill the dishwasher with the proper amount of hot water and is controlled by the timer or electronic control. The valve will be located behind the lower access panel and will have two wires attached to it, an outlet hose to the tub and a hot water inlet from the household supply. If your dishwasher does not fill, then you should first check the inlet supply to verify that you have enough water pressure.
+
+How to inspect a dishwasher water inlet valve:
+
+- Unplug your dishwasher and disconnect the water supply before starting.
+
+- Locate your water inlet valve. It is commonly found on the lower left side of your dishwasher. You likely will need to remove the lower access panel to locate it. 
+
+- Looking for any signs of damage, wear, or cracking, visually inspect the water inlet valve.
+
+- If your valve shows signs of any of the symptoms described above, you will need a replacement water inlet valve.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Fill-Water/#WaterInlet
+dishwasher,Will not fill with water,Float,"A malfunctioning float could cause the dishwasher to not fill with water. The acts as a safety device that prevents the dishwasher from overfilling with water. The float rises with the water level in the dishwasher and when the proper level is reached, the float will trigger the float switch to turn off the water inlet valve.
+
+How to check a dishwasher float assembly:
+
+- Before beginning, verify that you have unplugged your appliance.
+
+- Begin by opening your dishwasher door and removing the cover over the float assembly. Once you’ve done that, manually lift the float and let it drop multiple times, it should move freely, if it does not, remove the float to remove any foreign objects in the guide tube. You should also inspect the float for any visible wear or damage.
+
+- Remove the lower access panel to determine if the float is mechanically engaging with the float switch.
+
+- If you find any issues while performing this inspection, you will need a replacement float.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Fill-Water/#Float
+dishwasher,Will not fill with water,Float Switch,"When the float switch is triggered by the float, power to the water inlet valve is interrupted and it stops the flow of water into the dishwasher.
+
+How to test a dishwasher float switch with a multimeter:
+
+- Disconnect your dishwasher from the power source before beginning this inspection; you will be handling electrical components.
+
+- Locate and remove the float switch. It will be found behind the lower access panel, sitting directly below the float assembly. Use caution when disconnecting the wires from the switch, do not pull directly on the wires.
+
+- Once you have removed it, test the float switch by setting your multimeter to Rx1 and touching the probes to the switch’s terminals. This should produce a reading of zero or infinity. With the probes still touching the terminals, press in on the switch’s button, this should change the reading to the opposite extreme (from zero to infinity or infinity to zero).
+
+- If your test results produce readings that differ from the above, you will need a replacement float switch.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Fill-Water/#FloatSwitch
+dishwasher,Will not fill with water,Door Switch,"The door switch is a simple on/off mechanism that prohibits the dishwasher from operating when the door is open. If the door switch or switches are malfunctioning the dishwasher will not fill with water.
+
+How to test a dishwasher door switch with a multimeter:
+
+- Before beginning, ensure that you unplug your appliance as you will be working with electrical components.
+
+- The door switch is typically located behind the door panel at the top of the door. You will need to separate the inner door from the outer door in order to access the switch. Once you have located it, remove the door switch in order to test it for continuity.
+
+- Using a multimeter set to Rx1, test for continuity by touching one probe to the COM terminal and the other probe to the N.O. Terminal. With the actuator NOT pushed in, your reading should be infinity. Next, keeping the probes on the terminals, press in on the actuator until you hear a click, this should change the reading to zero.
+
+- If the results of your test do not match the results above, you will need a replacement door switch.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Fill-Water/#DoorSwitch
+dishwasher,Will not dispense detergent,Detergent & Rinse Aid Dispensers,"The detergent dispenser is designed to release detergent into the dishwasher tub during the wash cycles and will typically have two compartments, an unsealed compartment for prewash and a sealed compartment for the main wash cycle.
+
+How to inspect a dishwasher dispenser:
+
+- Disconnect your appliance from the power source.
+
+- Locate your dispenser, you will not need to remove it to inspect it. It will most likely be found attached to the inside of the dishwasher door.
+
+- Visually inspect the dispenser for any signs of cracking, discoloration, or damage. If you find any caked-on detergent or debris on the dispenser, thoroughly clean it with a wet cloth.
+
+- If you find any of the above issues, you will need a replacement dispenser.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/#DetergentAndRinse
+dishwasher,Will not dispense detergent,Rinse Aid Cap,"The rinse aid cap could be the reason why your dishwasher is not releasing rinse aid. The rinse aid cap could be loose and may just need to be refitted, but could also be warped or damaged from the heat of the water in the dishwasher.
+
+How to inspect a dishwasher rinse aid cap:
+
+- This is a very simple inspection; no tools or disassembly will be needed.
+
+- The rinse aid dispensing cap is located on the inner door panel of your dishwasher. Remove the cap from the door in order to inspect it.
+
+- Looking for any signs of melting, warping, cracking, or discoloration, visually inspect the rinse aid cap.
+
+- If you find any issues while performing the inspection above, you will need a replacement rinse aid cap.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/#RinseAid
+dishwasher,Will not dispense detergent,Door Spring & Hinge Pin,"If your dishwasher is not dispensing detergent, the spring and hinge pin on the dispenser door could be the problem. The dispenser door is spring loaded and is held in the closed position by a catch.
+
+How to inspect the door spring & hinge pin in a dishwasher:
+
+- No tools or disassembly will be required; this is a very simple inspection.
+
+- The door spring & hinge pin will be found on the inside of the dishwasher door, on some models it may be covered by the detergent dispenser assembly. Remove any components covering it if applicable.
+
+- Visually inspect the spring and pin to see if they are bent, broken, corroded, or otherwise damaged.
+
+- If you find any issues with your spring and pin, you will need a replacement door spring & hinge pin.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/#DoorSpringAnd
+dishwasher,Will not dispense detergent,Wax Motor,"The wax motor is used in newer model dishwashers to release the detergent dispenser door catch. If the wax motor is not working properly, then the dispenser door will not open to release the detergent. The wax motor acts as a solenoid when activated by the dishwasher’s timer or control, and the piston operates the mechanism that will release the catch for the dispenser door.
+
+How to test a dishwasher wax motor with a multimeter:
+
+- Disconnect your appliance from the power source before beginning.
+
+- Depending on your model, you will need to remove the external door panel or the internal door panel in order to access the wax motor, which will be located near the detergent dispenser cup. Remove the wax motor in order to test it.
+
+- Using a multimeter on the Rx1 setting, touch the probes to one terminal each to test it. If you receive a reading of infinity, the motor is defective.
+
+- If your motor fails the test above, you will need a replacement wax motor.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/#WaxMotor
+dishwasher,Will not dispense detergent,Bi-Metal Release,"Some older model dishwashers use a bi-metal release to operate the detergent dispenser door catch. The bi-metal release uses electric current to create a mechanical action to release the door catch.
+
+How to test a dishwasher bi-metal release with a multimeter:
+
+- Disconnect your appliance from the power source before beginning this or any other test.
+
+- Locate the bi-metal release. Depending on your model, you will need to remove either the internal or the external door panel in order to access the bi-metal release. Before removing the release, with the panel removed you should check the alignment of the release. You can do this by closing the detergent cup and pushing in on the metal with a small screwdriver until the detergent cup opens. Often only a slight adjustment is needed to solve this issue.
+
+- If this did not fix your issue, remove the release, set your multimeter to Rx1, and touch the probes to the release’s terminals. If your multimeter shows a reading of infinity, your release is defective.
+
+- If your test results indicate your release is faulty, you will need a replacement bi-metal release.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/#Bi-MetalRelease
+dishwasher,Will not dispense detergent,Timer,"Some models of dishwashers will use the timer to mechanically operate the detergent dispenser. At the proper time in the cycle, the timer will activate a lever that releases the detergent door catch. Check that the linkage between the timer and the door catch is working properly and if not replace it. Verify that the cam on the timer is working properly and replace the timer if defective.
+
+How to test a dishwasher timer with a multimeter:
+
+- Begin by disconnecting the power from your appliance.
+
+- The timer will most likely be found in your unit’s control panel. You will need to remove all or part of your appliance’s cabinet to access it.
+
+- Once you have located it, remove the timer from your dishwasher to test it. If your timer has multiple contacts, you will need to refer to your wiring diagram to identify which contacts you should be testing.
+
+- With your multimeter set to Rx1000, touch each probe to one contact/wire. A normal reading for a dishwasher timer is 2000-3500 ohms of resistance, but this varies from model to model, refer to your owner’s manual to determine what reading you should receive.
+
+- If your reading is outside the manufacturer’s recommendation, you will need a replacement timer.",https://www.partselect.com/Repair/Dishwasher/Will-Not-Dispense-Detergent/#Timer
+dishwasher,Not drying dishes properly,Heating Element,"A malfunctioning heating element may be the cause for dishes not drying. To test the heating element, first, make sure that power to your dishwasher is turned off, and then check for continuity with a multi-meter.
+
+How to test the heating element in a dishwasher with a multimeter:
+
+- Unplug your dishwasher before attempting this test.
+
+- Your heating element will be found inside the dishwasher, attached to the bottom of the tub. It may be covered or uncovered. If it is covered, remove the cover.
+
+- In order to disconnect the heating element, you will need to remove the lower access panel. Remove the wires attached to the heating element’s terminals by carefully grasping the metal connector, do not pull on the wire itself.
+
+- To test the element, set your multimeter to Rx1 and touch each probe to a terminal. Your reading should be somewhere between zero and infinity, refer to your owner’s manual to determine what reading you should receive for your model. If it is exactly zero or infinity it is defective.
+
+- If your test produces a reading different from the manufacturer’s recommendation, you will need a replacement heating element.",https://www.partselect.com/Repair/Dishwasher/Not-Drying-Properly/#HeatingElement
+dishwasher,Not drying dishes properly,High Limit Thermostat,"The high limit thermostat acts as a safety device that keeps the dishwasher from getting too hot. If the thermostat is malfunctioning, it could shut off the heat before your dishes are finished drying.
+
+How to test a dishwasher high limit thermostat with a multimeter:
+
+- Ensure that you unplug your appliance before beginning this inspection.
+
+- Locate and remove the thermostat in order to test it for continuity. In most models, it can be found at the bottom of the dishwasher tub, behind the lower access panel.
+
+- Set your multimeter to Rx1 mode and touch the terminals with the probes. When your thermostat is at room temperature, you should receive a reading of infinity. If you place the thermostat next to a warm lamp, you should receive a reading of zero.
+
+- If your thermostat produces different results, you will need a replacement high limit thermostat.",https://www.partselect.com/Repair/Dishwasher/Not-Drying-Properly/#HighLimit
+dishwasher,Not drying dishes properly,Rinse Aid Dispenser,"The rinse aid or the rinse aid dispensing cap could be the reason why your dishwasher is not fully drying your dishes. Without the rinse aid, the dishes will not shed water easily and will not dry properly.
+
+How to inspect a dishwasher rinse aid dispenser:
+
+- This inspection is very simple; you will not need to disassemble your appliance or have any tools to complete this inspection.
+
+- Your rinse aid dispenser will be found on the inside of the door, remove the cap from the dispenser.
+
+- After verifying that there is rinse aid in the chamber, inspect the cap and chamber for any signs of discoloration, warping, or any other damage.
+
+- If you find any issues with your rinse aid dispenser while performing this inspection, you will need a replacement rinse aid dispenser.",https://www.partselect.com/Repair/Dishwasher/Not-Drying-Properly/#RinseAid
