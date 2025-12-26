@@ -1,0 +1,16 @@
+node_modules
+
+# Environment
+.env
+.env.local
+
+# Python
+*.pyc
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Generated files
+database/dev/missing_parts.txt
+build/
